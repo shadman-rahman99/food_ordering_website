@@ -1,0 +1,22 @@
+SMAP
+viewFoodReview_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewFoodReview.jsp
+viewFoodReview.jsp
++ 1 AdminHeader.html
+AdminHeader.html
+*L
+1,18:69
+1#1,58:87
+18#0,12:144
+29,2:156
+30:182,11
+31:193
+32:194,3
+33:197
+34,3:198,3
+37,3:207
+39,6:159
+*E

@@ -1,0 +1,19 @@
+SMAP
+viewFoodList_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewFoodList.jsp
+viewFoodList.jsp
++ 1 AdminHeader.html
+AdminHeader.html
+*L
+1,18:69
+1#1,58:87
+18#0,24:144
+41,14:168
+54:207,11
+55,8:218,3
+63:242
+63,6:184
+*E
